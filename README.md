@@ -48,9 +48,7 @@ Tu peux aussi consulter mes autres dépôts:
 
 ## 📊 Statistiques GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Okpeyemi&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Okpeyemi&layout=compact&theme=transparent)
-![Streak](https://streak-stats.demolab.com?user=Okpeyemi&theme=transparent)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Okpeyemi&theme=flat&no-frame=true&margin-w=8)
 
 ---
